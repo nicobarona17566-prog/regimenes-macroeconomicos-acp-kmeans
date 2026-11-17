@@ -1,0 +1,20 @@
+[theme]
+base = "light"
+primaryColor = "#0B5F66"
+backgroundColor = "#F4F6F8"
+secondaryBackgroundColor = "#E8EDF1"
+textColor = "#13202E"
+font = "Public Sans:https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&display=swap"
+headingFont = "Archivo:https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&display=swap"
+codeFont = "JetBrains Mono:https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap"
+baseRadius = "0.375rem"
+chartCategoricalColors = ["#B57C00", "#2F6FD0", "#D1335F", "#00998A", "#7B55D0", "#6E8F14"]
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

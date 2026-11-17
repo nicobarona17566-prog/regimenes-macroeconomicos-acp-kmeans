@@ -1,0 +1,7 @@
+variable,codigo,anios_comparados,identicos,diferencia_maxima_pct
+inflacion,FP.CPI.TOTL.ZG,14,14,0.0
+desempleo,SL.UEM.TOTL.ZS,14,12,0.057
+pib_usd,NY.GDP.MKTP.CD,14,12,0.929
+pib_pc,NY.GDP.PCAP.CD,14,12,0.929
+recaudo,GC.TAX.TOTL.GD.ZS,14,11,0.968
+tasa_real,FR.INR.RINR,14,12,6.679

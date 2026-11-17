@@ -1,0 +1,66 @@
+{
+  "observaciones": 1644,
+  "paises": 137,
+  "anios": [
+    2010,
+    2023
+  ],
+  "variables": [
+    "inflacion",
+    "crecimiento",
+    "desempleo",
+    "cuenta_corriente",
+    "ingreso_publico",
+    "gasto_publico"
+  ],
+  "componentes": 3,
+  "varianza_retenida_pct": 71.94,
+  "valores_propios": [
+    2.214,
+    1.192,
+    0.91,
+    0.865,
+    0.699,
+    0.119
+  ],
+  "k": 3,
+  "silueta": 0.2861,
+  "estabilidad_k": {
+    "2": 0.964,
+    "3": 0.932,
+    "4": 0.671,
+    "5": 0.803,
+    "6": 0.76,
+    "7": 0.787,
+    "8": 0.841
+  },
+  "silueta_k": {
+    "2": 0.331,
+    "3": 0.286,
+    "4": 0.266,
+    "5": 0.251,
+    "6": 0.271,
+    "7": 0.272,
+    "8": 0.268
+  },
+  "grupos": {
+    "Estado pequeño, crecimiento alto": 653,
+    "Estado grande, superávit externo": 529,
+    "Desempleo alto, déficit externo": 462
+  },
+  "permanencia_pct": 87.89,
+  "paises_sin_cambios_pct": 51.82,
+  "silueta_negativa_pct": 2.25,
+  "colombia": {
+    "grupo": "Desempleo alto, déficit externo",
+    "anios": 14,
+    "cambios": 0,
+    "parecidos": [
+      "Jamaica",
+      "Costa Rica",
+      "Brasil",
+      "Kirguistán",
+      "Armenia"
+    ]
+  }
+}
