@@ -6,9 +6,9 @@ Taller individual de Machine Learning aplicado a Economía y Finanzas, Pontifici
 
 | Entregable | Enlace |
 |---|---|
-| Aplicación desplegada | pendiente: enlace de Streamlit Community Cloud |
+| Aplicación desplegada | [regimenes-macro-2010-2023.streamlit.app](https://regimenes-macro-2010-2023.streamlit.app) |
 | Video de sustentación | pendiente: enlace del video |
-| Repositorio | este repositorio |
+| Repositorio | [github.com/nicobarona17566-prog/regimenes-macroeconomicos-acp-kmeans](https://github.com/nicobarona17566-prog/regimenes-macroeconomicos-acp-kmeans) |
 
 En una frase: al agrupar 1.644 observaciones país-año por seis indicadores macroeconómicos, lo que separa a las economías es su estructura (el tamaño del Estado y la combinación de desempleo y cuenta corriente) más que el momento del ciclo; el 87,9 % de las veces un país sigue al año siguiente en el mismo grupo, y Colombia pasa sus catorce años en el grupo de desempleo alto y déficit externo.
 
